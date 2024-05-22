@@ -143,4 +143,5 @@ public class ManyToOneTest {
 		// 	System.out.println("food.getPrice() = " + food.getPrice());
 		// }
 	}
+
 }
